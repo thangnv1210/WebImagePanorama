@@ -1,0 +1,6 @@
+Các thư viện cần thiết: Python 3.9, opencv, numpy, Flask, Flask-Dropzone, Flask-WTF
+file features.py chứa các hàm để trích xuất đặc trưng của ảnh, matching, tính homography
+file stitch.py chứa các hàm load ảnh, tạo panorama, blending, cropping
+file app.py dùng để tạo web
+
+Chạy file "app.py" sẽ được localhost: http://127.0.0.1:5000/ để truy cập vào chương trình.
